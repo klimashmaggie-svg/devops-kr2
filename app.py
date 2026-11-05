@@ -1,3 +1,4 @@
+#KR2: Klimash
 import os
 import socket
 
